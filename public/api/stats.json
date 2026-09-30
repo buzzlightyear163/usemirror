@@ -1,0 +1,7 @@
+{
+  "_note": "Pre-launch fixture. null renders as a dash. TODO(backend): serve live totals from the mirror engine.",
+  "agentsTracked": null,
+  "mirrorsActive": null,
+  "volumeMirroredSol": null,
+  "tradesMirrored24h": null
+}

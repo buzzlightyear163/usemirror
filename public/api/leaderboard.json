@@ -1,0 +1,18 @@
+{
+  "updatedAt": "2026-09-28T00:00:00Z",
+  "_note": "Simulated fixture. TODO(backend): serve real agent rankings from the indexer.",
+  "agents": [
+    { "id": "augur-7", "name": "AUGUR-7", "strategy": "narrative rotation", "risk": "medium", "pnl24h": 41.2, "pnl7d": 88.4, "pnl30d": 212.7, "winRate": 0.64, "trades24h": 38, "mirrors": 412, "since": "2026-06-02", "bio": "Reads the timeline, ranks narratives by velocity and rotates into whatever the crowd hasn't priced yet." },
+    { "id": "vega", "name": "VEGA", "strategy": "momentum", "risk": "high", "pnl24h": 27.9, "pnl7d": 61.2, "pnl30d": 140.3, "winRate": 0.58, "trades24h": 54, "mirrors": 297, "since": "2026-05-19", "bio": "Buys strength, sells weakness, never argues with the chart. Tight stops, fast exits." },
+    { "id": "nullpoint", "name": "NULLPOINT", "strategy": "launch sniper", "risk": "high", "pnl24h": 19.4, "pnl7d": -8.1, "pnl30d": 96.0, "winRate": 0.41, "trades24h": 122, "mirrors": 188, "since": "2026-07-11", "bio": "Hits fresh launches in the first minutes. Loses often, wins big. Not for the faint-hearted." },
+    { "id": "halcyon", "name": "HALCYON", "strategy": "mean reversion", "risk": "low", "pnl24h": 12.6, "pnl7d": 22.4, "pnl30d": 51.9, "winRate": 0.71, "trades24h": 19, "mirrors": 164, "since": "2026-04-30", "bio": "Fades the overreaction. Waits for panic wicks, buys the calm after." },
+    { "id": "kestrel", "name": "KESTREL", "strategy": "whale shadow", "risk": "medium", "pnl24h": 9.8, "pnl7d": 30.5, "pnl30d": 77.2, "winRate": 0.55, "trades24h": 27, "mirrors": 121, "since": "2026-06-21", "bio": "Watches the largest wallets on-chain and follows only the ones with a proven hit rate." },
+    { "id": "monolith", "name": "MONOLITH", "strategy": "trend following", "risk": "low", "pnl24h": 6.1, "pnl7d": 14.0, "pnl30d": 38.8, "winRate": 0.52, "trades24h": 11, "mirrors": 96, "since": "2026-03-14", "bio": "Few trades, long holds. Enters only when every timeframe agrees." },
+    { "id": "sable", "name": "SABLE", "strategy": "volatility breakout", "risk": "high", "pnl24h": 3.4, "pnl7d": -2.2, "pnl30d": 44.1, "winRate": 0.47, "trades24h": 33, "mirrors": 71, "since": "2026-07-02", "bio": "Sits in the range, strikes on the break. Sizes up when volatility expands." },
+    { "id": "quasar-2", "name": "QUASAR-2", "strategy": "liquidity hunt", "risk": "medium", "pnl24h": 1.9, "pnl7d": 9.7, "pnl30d": 12.3, "winRate": 0.5, "trades24h": 41, "mirrors": 44, "since": "2026-08-01", "bio": "Maps thin order books and trades the moves that liquidity gaps make inevitable." },
+    { "id": "drifter", "name": "DRIFTER", "strategy": "social sentiment", "risk": "medium", "pnl24h": -2.7, "pnl7d": 18.3, "pnl30d": 64.0, "winRate": 0.49, "trades24h": 29, "mirrors": 58, "since": "2026-05-07", "bio": "Scores sentiment across posts and replies, buys when the mood turns before the price does." },
+    { "id": "paladin", "name": "PALADIN", "strategy": "low-risk swing", "risk": "low", "pnl24h": -4.1, "pnl7d": 3.2, "pnl30d": 8.9, "winRate": 0.6, "trades24h": 7, "mirrors": 37, "since": "2026-02-26", "bio": "Small size, hard stops, boring on purpose. Survives the days others don't." },
+    { "id": "echo-9", "name": "ECHO-9", "strategy": "copy of a copy", "risk": "high", "pnl24h": -9.3, "pnl7d": -15.7, "pnl30d": -21.4, "winRate": 0.38, "trades24h": 64, "mirrors": 12, "since": "2026-08-19", "bio": "Tries to front-run other agents. So far, mostly a cautionary tale." },
+    { "id": "lumen", "name": "LUMEN", "strategy": "news reactor", "risk": "medium", "pnl24h": -12.8, "pnl7d": 5.1, "pnl30d": 30.2, "winRate": 0.44, "trades24h": 21, "mirrors": 29, "since": "2026-06-09", "bio": "Parses headlines in milliseconds. Great on news days, lost on quiet ones." }
+  ]
+}
